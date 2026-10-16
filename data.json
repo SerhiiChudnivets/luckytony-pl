@@ -1,0 +1,393 @@
+{
+  "name": "luckytony.pl",
+  "site_name": "LuckyTony Casino — Claim Your New Player Bonus",
+  "html_head": "<link rel=\"canonical\" href=\"https://crazytower-com.pl/pl/\">\n<link rel=\"alternate\" href=\"https://crazytower-com.pl/\" hreflang=\"pl\">\n<link rel=\"alternate\" href=\"https://crazytower-com.pl/pl/\" hreflang=\"pl-PL\">\n<meta property=\"og:locale\" content=\"pl_PL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Crazy Tower Casino [PL] Szybkie wypłaty i najlepsze gry\">\n<meta property=\"og:description\" content=\"Przeczytaj kompleksowy przewodnik po naszym serwisie Crazy Tower Casino. Poznaj pełną ofertę gier, bonus powitalny do 63 500 zł, metody płatności oraz zasady bezpiecznej gry.\">\n<meta property=\"og:url\" content=\"crazytower-com.pl\">\n<meta property=\"og:site_name\" content=\"Crazy Tower Casino\">\n<meta property=\"og:image\" content=\"https://crazytower-com.pl//uploads/cc01fa19cf70c51b5dd2465da22cc815.webp\">",
+  "url": "luckytony.pl",
+  "template": "tupchiy",
+  "language_code": "pl",
+  "allow_indexing": false,
+  "redirect_404s_to_homepage": false,
+  "use_www_version": false,
+  "breadcrumbs": true,
+  "content": "<p></p>",
+  "pages": [
+    {
+      "id": 131,
+      "title": "LuckyTony Casino",
+      "slug": "pl",
+      "content": "<p></p>",
+      "seoTitle": "LuckyTony Casino — Claim Your New Player Bonus",
+      "seoDescription": "Dołącz do LuckyTony Casino. Odbierz atrakcyjny bonus powitalny w zl, graj w tysiące slotów i gier na żywo oraz korzystaj z szybkich wypłat BLIK i Paysafecard.",
+      "htmlHead": "<link rel=\"canonical\" href=\"https://crazytower-com.pl/pl/\">\n<link rel=\"alternate\" href=\"https://crazytower-com.pl/\" hreflang=\"pl\">\n<link rel=\"alternate\" href=\"https://crazytower-com.pl/pl/\" hreflang=\"pl-PL\">\n<meta property=\"og:locale\" content=\"pl_PL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Crazy Tower Casino [PL] Szybkie wypłaty i najlepsze gry\">\n<meta property=\"og:description\" content=\"Przeczytaj kompleksowy przewodnik po naszym serwisie Crazy Tower Casino. Poznaj pełną ofertę gier, bonus powitalny do 63 500 zł, metody płatności oraz zasady bezpiecznej gry.\">\n<meta property=\"og:url\" content=\"crazytower-com.pl\">\n<meta property=\"og:site_name\" content=\"Crazy Tower Casino\">\n<meta property=\"og:image\" content=\"https://crazytower-com.pl//uploads/cc01fa19cf70c51b5dd2465da22cc815.webp\">",
+      "gptPrompt": "",
+      "heroTitle": "LuckyTony Casino",
+      "heroSubtitle": "Bonus powitalny",
+      "heroBadge": "CrazyTower Casino — Zdobądź ekskluzywne bonusy",
+      "ctaText": "Graj teraz",
+      "tagline": "100% do 13 500 zł + 100 DS",
+      "heroImage": "/uploads/ac34abd0e7b66539430cbe6105aa28e7.webp",
+      "template": "homepage",
+      "isHomepage": false,
+      "order": 0,
+      "lang": "pl-PL",
+      "faqTitle": "FAQ",
+      "popupText": "Bonus 100% do 13 500 zł + 100 DS",
+      "popupLogo": "/uploads/928d3de71801b4f3ef819151a316b98d.svg",
+      "sections": null,
+      "slots": [
+        {
+          "link": "/play/",
+          "logo": "/uploads/e402f307b6c761444895c32bb4db41d7.webp",
+          "name": "King of the West",
+          "Name": "King of the West",
+          "logo_alt": "king of the west"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
+          "name": "Legacy of the West",
+          "Name": "Legacy of the West",
+          "logo_alt": "Legacy of Dead"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+          "name": "Dead of Alive",
+          "Name": "Dead of Alive",
+          "logo_alt": "Dead or Alive"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
+          "name": "Book of Dead",
+          "Name": "Book of Dead",
+          "logo_alt": "Book of Dead"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/205c4d625fda34c8752d432902bc7275.webp",
+          "name": "Big Bass Splash",
+          "Name": "Big Bass Splash",
+          "logo_alt": "big bass splash"
+        }
+      ],
+      "bonuses": [
+        {
+          "link": "/play/",
+          "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
+          "name": "Sport Bonus",
+          "Name": "Sport Bonus",
+          "logo_alt": "Sport Bonus"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
+          "name": "Welcome Bonus",
+          "Name": "Welcome Bonus",
+          "logo_alt": "Welcome Bonus"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
+          "name": "Exclusive Bonus",
+          "Name": "Exclusive Bonus",
+          "logo_alt": "Exclusive Bonus"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
+          "name": "Weekly Bonus",
+          "Name": "Weekly Bonus",
+          "logo_alt": "Weekly Bonus"
+        }
+      ],
+      "faq": [],
+      "globalSlotSetId": null,
+      "globalReviewSetId": null,
+      "websiteId": 211,
+      "createdAt": {},
+      "updatedAt": {},
+      "globalSlotSet": null,
+      "globalReviewSet": null,
+      "popup_text": "Bonus 100% do 13 500 zł + 100 DS",
+      "popup_logo": "/uploads/928d3de71801b4f3ef819151a316b98d.svg",
+      "hero_title": "LuckyTony Casino",
+      "hero_subtitle": "Bonus powitalny",
+      "hero_image": "/uploads/ac34abd0e7b66539430cbe6105aa28e7.webp",
+      "seo_title": "LuckyTony Casino — Claim Your New Player Bonus",
+      "seo_description": "Dołącz do LuckyTony Casino. Odbierz atrakcyjny bonus powitalny w zl, graj w tysiące slotów i gier na żywo oraz korzystaj z szybkich wypłat BLIK i Paysafecard.",
+      "html_head": "<link rel=\"canonical\" href=\"https://crazytower-com.pl/pl/\">\n<link rel=\"alternate\" href=\"https://crazytower-com.pl/\" hreflang=\"pl\">\n<link rel=\"alternate\" href=\"https://crazytower-com.pl/pl/\" hreflang=\"pl-PL\">\n<meta property=\"og:locale\" content=\"pl_PL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Crazy Tower Casino [PL] Szybkie wypłaty i najlepsze gry\">\n<meta property=\"og:description\" content=\"Przeczytaj kompleksowy przewodnik po naszym serwisie Crazy Tower Casino. Poznaj pełną ofertę gier, bonus powitalny do 63 500 zł, metody płatności oraz zasady bezpiecznej gry.\">\n<meta property=\"og:url\" content=\"crazytower-com.pl\">\n<meta property=\"og:site_name\" content=\"Crazy Tower Casino\">\n<meta property=\"og:image\" content=\"https://crazytower-com.pl//uploads/cc01fa19cf70c51b5dd2465da22cc815.webp\">",
+      "faq_title": "FAQ",
+      "hero_badge": "CrazyTower Casino — Zdobądź ekskluzywne bonusy",
+      "cta_text": "Graj teraz",
+      "htmlHead_alt": "crazytower casino",
+      "popupLogo_alt": "luckytony logo",
+      "popup_logo_alt": "luckytony logo",
+      "html_head_alt": "crazytower casino"
+    }
+  ],
+  "faq_schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Czy Crazy Tower Casino jest bezpiecznym miejscem do gry?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Tak, nasze kasyno stosuje szyfrowanie SSL, posiada oficjalną licencję hazardową oraz współpracuje wyłącznie z certyfikowanymi dostawcami oprogramowania."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Jakie są minimalne limity wypłat w Crazy Tower Casino?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Minimalna kwota wypłaty zależy od wybranej metody płatności. Dla e-portfeli wynosi ona 80 PLN, dla kart płatniczych i kryptowalut 100 PLN, a dla tradycyjnego przelewu bankowego 150 PLN."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Czy w Crazy Tower Casino można płacić w polskich złotych (PLN)?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Tak, nasz serwis w pełni obsługuje walutę PLN. Gracze z Polski mogą dokonywać wpłat i wypłat w swojej lokalnej walucie bez ponoszenia kosztów przewalutowania."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Jak działa pakiet powitalny w Crazy Tower Casino?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Pakiet powitalny obejmuje doładowania do czterech pierwszych depozytów o łącznej wartości aż do 63 000 PLN oraz 400 darmowych spinów. Przykładowo, przy pierwszej wpłacie możesz otrzymać bonus 100% do 13 500 PLN oraz 100 darmowych spinów na wybrane automaty."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Ile czasu trwa proces wypłaty wygranych środków?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Czas realizacji wypłaty zależy od wybranej metody płatności. Wypłaty w kryptowalutach realizowane są do 2 godzin, na e-portfele do 24 godzin, natomiast wypłaty na karty płatnicze oraz przelewy bankowe zajmują od 1 do 3 dni roboczych."
+        }
+      }
+    ]
+  },
+  "seo_description": "Dołącz do LuckyTony Casino. Odbierz atrakcyjny bonus powitalny w zl, graj w tysiące slotów i gier na żywo oraz korzystaj z szybkich wypłat BLIK i Paysafecard.",
+  "redirect_site": null,
+  "hero_title": "LuckyTony Casino",
+  "hero_subtitle": "Bonus powitalny",
+  "hero_badge": "CrazyTower Casino — Zdobądź ekskluzywne bonusy",
+  "cta_text": "Graj teraz",
+  "tagline": "100% do 13 500 zł + 100 DS",
+  "features_list": null,
+  "footer_text": "© 2026 LuckyTony Casino. Wszelkie prawa zastrzeżone.",
+  "popup_text": "Bonus 100% do 13 500 zł + 100 DS",
+  "faq_title": "FAQ",
+  "login_text": "Zaloguj się",
+  "register_text": " Zarejestruj się",
+  "slots_title": "Najlepsze automaty w CrazyTower Casino",
+  "bonus_title": "CrazyTower Casino — Najlepszy pakiet powitalny",
+  "get_bonus_btn_text": "Grać",
+  "redirect_link": "/play/",
+  "home_name": "LuckyTony Casino",
+  "subdomains": null,
+  "accent_color": "#d4af37",
+  "main_background": "#261817",
+  "secondary_background": "#422721",
+  "button_background": "#E4AE2E",
+  "button_text_color": "#EFE2BD",
+  "text_color": "#D19A64",
+  "color_highlight_text": "#EFE2BD",
+  "color_main_btn_text": "#000000",
+  "cta_background": "#2A873C",
+  "logo": {
+    "url": "/uploads/928d3de71801b4f3ef819151a316b98d.svg",
+    "alt": "luckytony logo"
+  },
+  "popup_logo": {
+    "url": "/uploads/928d3de71801b4f3ef819151a316b98d.svg",
+    "alt": "luckytony logo"
+  },
+  "main_background_img": {
+    "url": "/uploads/ac34abd0e7b66539430cbe6105aa28e7.webp"
+  },
+  "header_menu": [
+    {
+      "link": "/play/",
+      "label": "Kasyno",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Promocje",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Na żywo",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Sloty",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_menu": [
+    {
+      "link": "/play/",
+      "label": " O nas",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Polityka prywatności",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Polityka cookies",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Odpowiedzialna",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_images": [
+    {
+      "link": "/play/",
+      "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
+      "image_alt": "18+"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
+      "image_alt": "visa"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/2333a8386ea6b8af17c8fa8ac44035e2.svg",
+      "image_alt": "mastercard"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/418b10f20c5a107495678db5348856b3.svg",
+      "image_alt": "interac"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/d3d357852a0994aad4f4fb0220ca2058.svg",
+      "image_alt": "neteller"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/2767b5abec611eeaecc8af4ad65c2a43.svg",
+      "image_alt": "btc"
+    }
+  ],
+  "Slots": [
+    {
+      "link": "/play/",
+      "logo": "/uploads/e402f307b6c761444895c32bb4db41d7.webp",
+      "name": "King of the West",
+      "Name": "King of the West",
+      "logo_alt": "king of the west"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
+      "name": "Legacy of the West",
+      "Name": "Legacy of the West",
+      "logo_alt": "Legacy of Dead"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+      "name": "Dead of Alive",
+      "Name": "Dead of Alive",
+      "logo_alt": "Dead or Alive"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
+      "name": "Book of Dead",
+      "Name": "Book of Dead",
+      "logo_alt": "Book of Dead"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/205c4d625fda34c8752d432902bc7275.webp",
+      "name": "Big Bass Splash",
+      "Name": "Big Bass Splash",
+      "logo_alt": "big bass splash"
+    }
+  ],
+  "Bonuses": [
+    {
+      "link": "/play/",
+      "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
+      "name": "Sport Bonus",
+      "Name": "Sport Bonus",
+      "logo_alt": "Sport Bonus"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
+      "name": "Welcome Bonus",
+      "Name": "Welcome Bonus",
+      "logo_alt": "Welcome Bonus"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
+      "name": "Exclusive Bonus",
+      "Name": "Exclusive Bonus",
+      "logo_alt": "Exclusive Bonus"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
+      "name": "Weekly Bonus",
+      "Name": "Weekly Bonus",
+      "logo_alt": "Weekly Bonus"
+    }
+  ],
+  "Reviews": null,
+  "FAQ": [
+    {
+      "answer": "Tak, nasze kasyno stosuje szyfrowanie SSL, posiada oficjalną licencję hazardową oraz współpracuje wyłącznie z certyfikowanymi dostawcami oprogramowania.",
+      "question": "Czy Crazy Tower Casino jest bezpiecznym miejscem do gry?"
+    },
+    {
+      "answer": "Minimalna kwota wypłaty zależy od wybranej metody płatności. Dla e-portfeli wynosi ona 80 PLN, dla kart płatniczych i kryptowalut 100 PLN, a dla tradycyjnego przelewu bankowego 150 PLN.",
+      "question": "Jakie są minimalne limity wypłat w Crazy Tower Casino?"
+    },
+    {
+      "answer": "Tak, nasz serwis w pełni obsługuje walutę PLN. Gracze z Polski mogą dokonywać wpłat i wypłat w swojej lokalnej walucie bez ponoszenia kosztów przewalutowania.",
+      "question": "Czy w Crazy Tower Casino można płacić w polskich złotych (PLN)?"
+    },
+    {
+      "answer": "Pakiet powitalny obejmuje doładowania do czterech pierwszych depozytów o łącznej wartości aż do 63 000 PLN oraz 400 darmowych spinów. Przykładowo, przy pierwszej wpłacie możesz otrzymać bonus 100% do 13 500 PLN oraz 100 darmowych spinów na wybrane automaty.",
+      "question": "Jak działa pakiet powitalny w Crazy Tower Casino?"
+    },
+    {
+      "answer": "Czas realizacji wypłaty zależy od wybranej metody płatności. Wypłaty w kryptowalutach realizowane są do 2 godzin, na e-portfele do 24 godzin, natomiast wypłaty na karty płatnicze oraz przelewy bankowe zajmują od 1 do 3 dni roboczych.",
+      "question": "Ile czasu trwa proces wypłaty wygranych środków?"
+    }
+  ],
+  "_generated_at": "2026-10-16T08:34:11.955Z",
+  "_version": "1.0.0",
+  "html_head_alt": "crazytower casino",
+  "_last_deploy": "2026-10-16T08:34:16.454Z",
+  "_deploy_trigger": "a1wda"
+}
