@@ -24,81 +24,71 @@
       "heroSubtitle": "Bonus powitalny",
       "heroBadge": "LuckyTony Casino – Graj w automaty online",
       "ctaText": "Graj teraz",
-      "tagline": "5 zł za każde 650 zł obrotu, maksymalnie 4 000 zł",
+      "tagline": "5 zł za każde 650 zł obrotu do 4 000 zł",
       "heroImage": "/uploads/ac34abd0e7b66539430cbe6105aa28e7.webp",
       "template": "homepage",
       "isHomepage": false,
       "order": 0,
       "lang": "pl-PL",
       "faqTitle": "FAQ",
-      "popupText": "Bonus 5 zł za każde 650 zł obrotu, maksymalnie 4 000 zł",
+      "popupText": "Bonus 5 zł za każde 650 zł obrotu do 4 000 zł",
       "popupLogo": "/uploads/928d3de71801b4f3ef819151a316b98d.svg",
       "sections": null,
       "slots": [
         {
           "link": "/play/",
-          "logo": "/uploads/e402f307b6c761444895c32bb4db41d7.webp",
-          "name": "King of the West",
-          "Name": "King of the West",
-          "logo_alt": "king of the west"
+          "logo": "/uploads/266f409efeba053bbeb20e8ae5943918.webp",
+          "name": "Sea of Spirits",
+          "Name": "Sea of Spirits",
+          "logo_alt": "sea of spirits"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
-          "name": "Legacy of the West",
-          "Name": "Legacy of the West",
-          "logo_alt": "Legacy of Dead"
+          "logo": "/uploads/498dbf89ecad9e8a4c63a2acc87cb117.webp",
+          "name": "Penalty Shoot",
+          "Name": "Penalty Shoot",
+          "logo_alt": "Penalty Shoot"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
-          "name": "Dead of Alive",
-          "Name": "Dead of Alive",
-          "logo_alt": "Dead or Alive"
+          "logo": "/uploads/672a04bafac82bac397c4e5bb773a89f.webp",
+          "name": "Big Bass Bonanza",
+          "Name": "Big Bass Bonanza",
+          "logo_alt": "Big Bass Bonanza"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
-          "name": "Book of Dead",
-          "Name": "Book of Dead",
-          "logo_alt": "Book of Dead"
+          "logo": "/uploads/70515c2c284155bd77b70fbf7da5f44d.webp",
+          "name": "Aviatrix",
+          "Name": "Aviatrix",
+          "logo_alt": "Aviatrix"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/205c4d625fda34c8752d432902bc7275.webp",
-          "name": "Big Bass Splash",
-          "Name": "Big Bass Splash",
-          "logo_alt": "big bass splash"
+          "logo": "/uploads/6d947639dc178568b5f2352d5797a08c.webp",
+          "name": "Wild Spin",
+          "Name": "Wild Spin",
+          "logo_alt": "wild spin"
         }
       ],
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
-          "name": "Sport Bonus",
-          "Name": "Sport Bonus",
-          "logo_alt": "Sport Bonus"
+          "logo": "/uploads/98241f1812efc8a6811f8148ac859125.webp",
+          "name": "Weekendowy Reload 50% do kwoty 1 000 zł ",
+          "Name": "Weekendowy Reload 50% do kwoty 1 000 zł "
         },
         {
           "link": "/play/",
-          "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
-          "name": "Welcome Bonus",
-          "Name": "Welcome Bonus",
-          "logo_alt": "Welcome Bonus"
+          "logo": "/uploads/cc6130da8aedcb3afe4aeb9c04188842.webp",
+          "name": "Cotygodniowy Cashback przyznajemy do 15%",
+          "Name": "Cotygodniowy Cashback przyznajemy do 15%"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
-          "name": "Exclusive Bonus",
-          "Name": "Exclusive Bonus",
-          "logo_alt": "Exclusive Bonus"
-        },
-        {
-          "link": "/play/",
-          "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
-          "name": "Weekly Bonus",
-          "Name": "Weekly Bonus",
-          "logo_alt": "Weekly Bonus"
+          "logo": "/uploads/57b6dc96dbbc0042adee69cf3a428d87.webp",
+          "name": "Welcome Bonus 5 zł za każde 650 zł obrotu, do 4 000 zł",
+          "Name": "Welcome Bonus 5 zł za każde 650 zł obrotu, do 4 000 zł"
         }
       ],
       "faq": [],
@@ -109,7 +99,7 @@
       "updatedAt": {},
       "globalSlotSet": null,
       "globalReviewSet": null,
-      "popup_text": "Bonus 5 zł za każde 650 zł obrotu, maksymalnie 4 000 zł",
+      "popup_text": "Bonus 5 zł za każde 650 zł obrotu do 4 000 zł",
       "popup_logo": "/uploads/928d3de71801b4f3ef819151a316b98d.svg",
       "hero_title": "LuckyTony Casino",
       "hero_subtitle": "Bonus powitalny",
@@ -177,10 +167,10 @@
   "hero_subtitle": "Bonus powitalny",
   "hero_badge": "LuckyTony Casino – Graj w automaty online",
   "cta_text": "Graj teraz",
-  "tagline": "5 zł za każde 650 zł obrotu, maksymalnie 4 000 zł",
+  "tagline": "5 zł za każde 650 zł obrotu do 4 000 zł",
   "features_list": null,
   "footer_text": "© 2026 LuckyTony Casino. Wszelkie prawa zastrzeżone.",
-  "popup_text": "Bonus 5 zł za każde 650 zł obrotu, maksymalnie 4 000 zł",
+  "popup_text": "Bonus 5 zł za każde 650 zł obrotu do 4 000 zł",
   "faq_title": "FAQ",
   "login_text": "Zaloguj się",
   "register_text": " Zarejestruj się",
@@ -272,68 +262,58 @@
   "Slots": [
     {
       "link": "/play/",
-      "logo": "/uploads/e402f307b6c761444895c32bb4db41d7.webp",
-      "name": "King of the West",
-      "Name": "King of the West",
-      "logo_alt": "king of the west"
+      "logo": "/uploads/266f409efeba053bbeb20e8ae5943918.webp",
+      "name": "Sea of Spirits",
+      "Name": "Sea of Spirits",
+      "logo_alt": "sea of spirits"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
-      "name": "Legacy of the West",
-      "Name": "Legacy of the West",
-      "logo_alt": "Legacy of Dead"
+      "logo": "/uploads/498dbf89ecad9e8a4c63a2acc87cb117.webp",
+      "name": "Penalty Shoot",
+      "Name": "Penalty Shoot",
+      "logo_alt": "Penalty Shoot"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
-      "name": "Dead of Alive",
-      "Name": "Dead of Alive",
-      "logo_alt": "Dead or Alive"
+      "logo": "/uploads/672a04bafac82bac397c4e5bb773a89f.webp",
+      "name": "Big Bass Bonanza",
+      "Name": "Big Bass Bonanza",
+      "logo_alt": "Big Bass Bonanza"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
-      "name": "Book of Dead",
-      "Name": "Book of Dead",
-      "logo_alt": "Book of Dead"
+      "logo": "/uploads/70515c2c284155bd77b70fbf7da5f44d.webp",
+      "name": "Aviatrix",
+      "Name": "Aviatrix",
+      "logo_alt": "Aviatrix"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/205c4d625fda34c8752d432902bc7275.webp",
-      "name": "Big Bass Splash",
-      "Name": "Big Bass Splash",
-      "logo_alt": "big bass splash"
+      "logo": "/uploads/6d947639dc178568b5f2352d5797a08c.webp",
+      "name": "Wild Spin",
+      "Name": "Wild Spin",
+      "logo_alt": "wild spin"
     }
   ],
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
-      "name": "Sport Bonus",
-      "Name": "Sport Bonus",
-      "logo_alt": "Sport Bonus"
+      "logo": "/uploads/98241f1812efc8a6811f8148ac859125.webp",
+      "name": "Weekendowy Reload 50% do kwoty 1 000 zł ",
+      "Name": "Weekendowy Reload 50% do kwoty 1 000 zł "
     },
     {
       "link": "/play/",
-      "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
-      "name": "Welcome Bonus",
-      "Name": "Welcome Bonus",
-      "logo_alt": "Welcome Bonus"
+      "logo": "/uploads/cc6130da8aedcb3afe4aeb9c04188842.webp",
+      "name": "Cotygodniowy Cashback przyznajemy do 15%",
+      "Name": "Cotygodniowy Cashback przyznajemy do 15%"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
-      "name": "Exclusive Bonus",
-      "Name": "Exclusive Bonus",
-      "logo_alt": "Exclusive Bonus"
-    },
-    {
-      "link": "/play/",
-      "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
-      "name": "Weekly Bonus",
-      "Name": "Weekly Bonus",
-      "logo_alt": "Weekly Bonus"
+      "logo": "/uploads/57b6dc96dbbc0042adee69cf3a428d87.webp",
+      "name": "Welcome Bonus 5 zł za każde 650 zł obrotu, do 4 000 zł",
+      "Name": "Welcome Bonus 5 zł za każde 650 zł obrotu, do 4 000 zł"
     }
   ],
   "Reviews": null,
@@ -359,9 +339,9 @@
       "question": "Czy LuckyTony Casino jest bezpiecznym miejscem do gry?"
     }
   ],
-  "_generated_at": "2026-10-16T09:10:12.219Z",
+  "_generated_at": "2026-10-16T09:16:15.207Z",
   "_version": "1.0.0",
   "content_alt": "luckytony register",
-  "_last_deploy": "2026-10-16T09:10:13.047Z",
-  "_deploy_trigger": "xqbaa9"
+  "_last_deploy": "2026-10-16T09:16:15.815Z",
+  "_deploy_trigger": "pmziq"
 }
