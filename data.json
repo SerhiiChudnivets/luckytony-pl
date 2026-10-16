@@ -190,14 +190,14 @@
   "home_name": "LuckyTony Casino",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": "#261817",
-  "secondary_background": "#422721",
-  "button_background": "#E4AE2E",
-  "button_text_color": "#EFE2BD",
-  "text_color": "#D19A64",
-  "color_highlight_text": "#EFE2BD",
-  "color_main_btn_text": "#000000",
-  "cta_background": "#2A873C",
+  "main_background": "#0a0033",
+  "secondary_background": "#0f0141",
+  "button_background": "#008cff",
+  "button_text_color": "#ffffff",
+  "text_color": "#ffffff",
+  "color_highlight_text": "#ffffff",
+  "color_main_btn_text": "#ffffff",
+  "cta_background": "#19cc61",
   "logo": {
     "url": "/uploads/928d3de71801b4f3ef819151a316b98d.svg",
     "alt": "luckytony logo"
@@ -266,31 +266,6 @@
       "link": "/play/",
       "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
       "image_alt": "18+"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
-      "image_alt": "visa"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/2333a8386ea6b8af17c8fa8ac44035e2.svg",
-      "image_alt": "mastercard"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/418b10f20c5a107495678db5348856b3.svg",
-      "image_alt": "interac"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/d3d357852a0994aad4f4fb0220ca2058.svg",
-      "image_alt": "neteller"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/2767b5abec611eeaecc8af4ad65c2a43.svg",
-      "image_alt": "btc"
     }
   ],
   "Slots": [
@@ -383,8 +358,8 @@
       "question": "Czy LuckyTony Casino jest bezpiecznym miejscem do gry?"
     }
   ],
-  "_generated_at": "2026-10-16T08:50:39.732Z",
+  "_generated_at": "2026-10-16T08:54:02.303Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-16T08:50:40.312Z",
-  "_deploy_trigger": "8n4d07"
+  "_last_deploy": "2026-10-16T08:54:02.900Z",
+  "_deploy_trigger": "n365y"
 }
