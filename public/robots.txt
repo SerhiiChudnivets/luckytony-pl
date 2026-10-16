@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://crazytower-com.pl/sitemap.xml
+Sitemap: https://luckytony.pl/sitemap.xml
