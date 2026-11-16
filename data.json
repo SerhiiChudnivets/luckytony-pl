@@ -111,8 +111,12 @@
       "hero_badge": "LuckyTony Casino – Graj w automaty online",
       "cta_text": "Graj teraz",
       "content_alt": "luckytony register",
+      "htmlHead_alt": "luckytony baner",
+      "heroImage_alt": "luckytony baner",
       "popupLogo_alt": "luckytony logo",
-      "popup_logo_alt": "luckytony logo"
+      "popup_logo_alt": "luckytony logo",
+      "hero_image_alt": "luckytony baner",
+      "html_head_alt": "luckytony baner"
     }
   ],
   "faq_schema": {
@@ -198,7 +202,8 @@
     "alt": "luckytony logo"
   },
   "main_background_img": {
-    "url": "/uploads/ac34abd0e7b66539430cbe6105aa28e7.webp"
+    "url": "/uploads/ac34abd0e7b66539430cbe6105aa28e7.webp",
+    "alt": "luckytony baner"
   },
   "header_menu": [
     {
@@ -339,9 +344,10 @@
       "question": "Czy LuckyTony Casino jest bezpiecznym miejscem do gry?"
     }
   ],
-  "_generated_at": "2026-10-19T07:54:41.631Z",
+  "_generated_at": "2026-11-16T16:49:03.114Z",
   "_version": "1.0.0",
+  "html_head_alt": "luckytony baner",
   "content_alt": "luckytony register",
-  "_last_deploy": "2026-10-19T07:54:42.250Z",
-  "_deploy_trigger": "k0dgbu"
+  "_last_deploy": "2026-11-16T16:49:03.853Z",
+  "_deploy_trigger": "eq3atx"
 }
